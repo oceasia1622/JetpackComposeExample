@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "144815778127",
+    "project_id": "bookscompose",
+    "storage_bucket": "bookscompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144815778127:android:3f9b3044fb6f34a3effd3a",
+        "android_client_info": {
+          "package_name": "com.example.googlebooksapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144815778127-bu14rjac444ii124n9itad5icio52okd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlebooksapi",
+            "certificate_hash": "02bfe04dbcbad19b4a879b232a9e89993ea26f03"
+          }
+        },
+        {
+          "client_id": "144815778127-epdo2js5ndti5e574jj5d169fh7ac4h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH5daBfamB4D0OXqP1fC04u-iYTtN3aYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144815778127-epdo2js5ndti5e574jj5d169fh7ac4h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
